@@ -1,0 +1,9 @@
+node_modules
+# ENV
+.env*
+
+# LOCK
+bun.lockb
+
+# TYPES
+types/*
